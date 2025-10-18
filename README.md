@@ -37,14 +37,14 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dev-scripts-suite.git
-cd dev-scripts-suite
+git clone https://github.com/rohitsainier/robot.git
+cd robot
 
 # Make all scripts executable
 chmod +x *.sh
 
 # Optional: Add to PATH
-echo 'export PATH="$PATH:~/dev-scripts-suite"' >> ~/.bashrc
+echo 'export PATH="$PATH:~/robot"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
@@ -430,8 +430,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📮 Contact & Support
 
 - 📧 Email: rohitsainier@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/rohitsainier/dev-scripts-suite/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/rohitsainier/dev-scripts-suite/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/rohitsainier/robot/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/rohitsainier/robot/discussions)
 
 ---
 
